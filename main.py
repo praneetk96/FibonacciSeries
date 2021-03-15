@@ -1,7 +1,7 @@
 #  ____  _  __
 # |  _ \| |/ /	Praneet Kumar
 # | |_) | ' / 	https://github.com/praneetk96
-# |  __/| . \ 
+# |  __/| . \
 # |_|   |_|\_\
 # Fibonacci series generator for the 100th place using recursion in python3
 # for i.e. enter 100 to get fibonacci series till 100th place!
